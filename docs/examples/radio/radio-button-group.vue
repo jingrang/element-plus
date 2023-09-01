@@ -9,5 +9,5 @@
 <script lang="ts" setup>
 import { ref } from 'vue'
 
-const radio = ref(3)
+const radio = ref(6)
 </script>
